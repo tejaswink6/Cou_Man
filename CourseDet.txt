@@ -1,0 +1,42 @@
+
+COURSE 1
+Course Details:
+-Course Name:a
+-Course Fees:10
+-Course Start Date:1996-10-10
+-Course Duration:10
+-No. of Instructors:0
+-No. of Participants:0
+Course Coordinator Details:
+-Name:e
+-Department:
+-Address:e
+-Mobile No.:9933910222
+-Email:t@g.com
+
+COURSE 2
+Course Details:
+-Course Name:e
+-Course Fees:10
+-Course Start Date:2016-03-01
+-Course Duration:10
+-No. of Instructors:0
+-No. of Participants:2
+Course Coordinator Details:
+-Name:r
+-Department:r
+-Address:r
+-Mobile No.:9933910222
+-Email:t@g.com
+Participant 1 details:
+-Name:y
+-Organization:y
+-Address:y
+-Mobile No.:9933910222
+-Email:te@g.com
+Participant 2 details:
+-Name:r
+-Organization:t
+-Address:r
+-Mobile No.:9933910222
+-Email:t@g.com
